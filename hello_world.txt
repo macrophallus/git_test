@@ -1,0 +1,2 @@
+This is My first github project. I'm doing the odin project right now so I don't have a crummy job while im in college.
+
